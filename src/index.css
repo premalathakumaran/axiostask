@@ -68,6 +68,6 @@ button:focus-visible {
 } */
 
 #root{
-  background-image: url('../Images/bg_img2.jpg');
+  background-image: url('/bg_img2.jpg');
   background-size: contain;
 }
